@@ -1,3 +1,4 @@
 hello!
 hello from branch master
 hello from user2!
+trying git rebase
